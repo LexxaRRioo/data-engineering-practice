@@ -1,3 +1,6 @@
 *.idea*
 *.DS_Store*
 *postgres-data*
+*.csv*
+*_SUCCESS*
+*.pyc
